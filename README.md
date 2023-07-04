@@ -1,4 +1,4 @@
-# Can-I-help-you?
+# Can I help you?
 This project hold help issue tracker for FOSS project.
 
 Easy way to contact me: create a issue here, and describe what and where I could help you?
@@ -18,3 +18,8 @@ Some skill and area I may be able to help
 * FOSS related suff and people
 * Hosting
 * Sysadmin suff in general
+
+
+## License
+
+Everything shared and exanged here must be Free and GPL. See [License](./LICENSE)
